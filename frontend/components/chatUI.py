@@ -3,8 +3,6 @@ from utils.api import ask_question
 
 
 def render_chat():
-    st.subheader("💬 Chat with your assistant")
-
     if "messages" not in st.session_state:
         st.session_state.messages=[]
 
