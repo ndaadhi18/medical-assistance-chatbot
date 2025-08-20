@@ -69,4 +69,8 @@ The project is divided into two main components:
     ```
     The frontend application will be running at `http://localhost:8501`.
 
+## Screenshots
+
+### Chat Interface
+![Chat Interface](frontend/chat_interface.png)
 
