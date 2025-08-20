@@ -10,3 +10,8 @@ wheels/
 .venv
 /backend/.env
 test.py
+
+
+chat_interface.png
+documents_uploaded.png
+homepage.png
