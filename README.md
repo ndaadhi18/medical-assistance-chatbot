@@ -74,3 +74,19 @@ The project is divided into two main components:
 ### Chat Interface
 ![Chat Interface](frontend/chat_interface.png)
 
+## 🚀 Deployment
+
+This project is fully deployed and accessible online:
+
+- **Backend (FastAPI)** → [Render Deployment](https://medical-assistance-chatbot-gzla.onrender.com)
+- **Frontend (Streamlit)** → [Streamlit Deployment](https://medical-assistance-chatbot.streamlit.app/)
+
+### 🔗 How to Access
+1. Open the [Streamlit App](https://your-frontend.streamlit.app).
+2. Upload a medical PDF document (e.g., prescriptions, medical reports).
+3. Ask your query in the chat interface.
+4. The app will interact with the FastAPI backend (deployed on Render), retrieve context using Pinecone, and respond with relevant medical information.
+5. You can also view/download the chat history for reference.
+
+⚠️ **Disclaimer:** This chatbot is for **educational purposes only** and should not be considered a substitute for professional medical advice.
+
