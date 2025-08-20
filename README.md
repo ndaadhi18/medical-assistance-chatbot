@@ -72,10 +72,10 @@ The project is divided into two main components:
 ## Screenshots
 
 ### Home Page
-![Home Page](placeholder.png)
+![Home Page](homepage.png)
 
 ### Chat Interface
-![Chat Interface](placeholder.png)
+![Chat Interface](chat_interface.png)
 
 ### Uploading Documents
-![Uploading Documents](placeholder.png)
+![Uploading Documents](documents_uploaded.png)
